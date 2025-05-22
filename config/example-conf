@@ -1,0 +1,8 @@
+# Partie SoundCloud
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+USER_ID = 1234
+
+# Partie Spotify
+SPOTIFY_CLIENT_ID = ""
+SPOTIFY_CLIENT_SECRET = ""
